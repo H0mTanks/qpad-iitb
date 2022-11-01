@@ -7,4 +7,4 @@ A basic text editing app has been build with common features such as new, open ,
 
 As part of the assignment, bold/unbold, superscript/subscript feature has been implemented.
 
-Challenges faced was learning the QTFramework for this peoject.
+Challenges faced was learning the QTFramework for this project.
